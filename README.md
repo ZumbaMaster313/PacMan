@@ -1,5 +1,5 @@
 # PacMan
-The original PacMan game, made in Unity, the soul purpose of creating this game was to learn the shortest path algorithm as shown in my code
+*Merely a copy of PacMan* Made in Unity.
 
 
 ![Alt text](https://github.com/ZumbaMaster313/PacMan/blob/master/PacManGame.JPG)
